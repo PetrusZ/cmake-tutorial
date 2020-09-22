@@ -1,2 +1,5 @@
 *_build
 .ccls-cache
+debug
+release
+_CPack_Packages
